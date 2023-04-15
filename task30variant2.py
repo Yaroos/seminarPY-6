@@ -1,4 +1,3 @@
-# print() / - 0 {} [] _ a1+(n-1)*d
 a1 = int(input('a1: '))
 n = int(input('n: '))
 d = int(input('d: '))
